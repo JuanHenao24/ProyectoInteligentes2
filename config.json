@@ -1,0 +1,8 @@
+{
+    "mongo": {
+        "username": "admin",
+        "password": "hola123",
+        "host": "proyectointeligente.tyi6dic.mongodb.net",
+        "database": "proyectointeligente"
+    }
+}
